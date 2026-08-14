@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "expo-template-default",
+    "name": "weather-wear",
+    "slug": "weather-wear",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "helloworld",
+    "scheme": "weather-wear",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
